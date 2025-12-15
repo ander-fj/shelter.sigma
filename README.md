@@ -1,4 +1,4 @@
-# MRS-SIGMA - Sistema Integrado de Gestão de Materiais e Ativos
+# SIGMA - Sistema Integrado de Gestão de Materiais e Ativos
 
 Sistema completo de gestão de inventário com suporte para aplicativo Android nativo.
 

@@ -75,7 +75,7 @@ export interface AppSettings {
 export const DEFAULT_THEMES: ThemeSettings[] = [
   {
     id: 'default',
-    name: 'Padrão MRS-SIGMA',
+    name: 'Padrão SIGMA',
     colors: {
       primary: '#3B82F6',
       secondary: '#6B7280',
@@ -245,8 +245,8 @@ export const DEFAULT_THEMES: ThemeSettings[] = [
 
 export const DEFAULT_SETTINGS: AppSettings = {
   theme: DEFAULT_THEMES[0],
-  companyName: 'MRS Logística',
-  systemName: 'MRS-SIGMA',
+  companyName: 'Shelter Engenharia',
+  systemName: 'SIGMA',
   language: 'pt-BR',
   dateFormat: 'dd/MM/yyyy',
   currency: 'BRL',

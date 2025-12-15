@@ -2,7 +2,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'com.secontaf.mrssigma',
-  appName: 'MRS-SIGMA',
+  appName: 'SIGMA',
   webDir: 'dist',
   bundledWebRuntime: false,
   server: {
@@ -18,7 +18,7 @@ const config: CapacitorConfig = {
     minWebViewVersion: 60
   },
   ios: {
-    scheme: 'MRS-SIGMA'
+    scheme: 'SIGMA'
   },
   plugins: {
     SplashScreen: {

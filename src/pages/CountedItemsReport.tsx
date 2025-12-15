@@ -471,7 +471,7 @@ export function CountedItemsReport({ onBack }: CountedItemsReportProps) {
         <body>
           <div class="header">
             <h1>📋 Relatório Completo de Itens Contados</h1>
-            <p><strong>MRS-SIGMA</strong> - Sistema Integrado de Gestão de Materiais e Ativos</p>
+            <p><strong>SIGMA</strong> - Sistema Integrado de Gestão de Materiais e Ativos</p>
             <p>Gerado em: ${new Date().toLocaleDateString('pt-BR')} às ${new Date().toLocaleTimeString('pt-BR')}</p>
             <p>Total de itens analisados: <strong>${stats.totalItems}</strong> | Inventários: <strong>${stats.totalSchedules}</strong></p>
           </div>
@@ -543,7 +543,7 @@ export function CountedItemsReport({ onBack }: CountedItemsReportProps) {
             <p>Valor Total Esperado: <strong>${formatCurrency(stats.totalExpectedValue)}</strong> | 
                Valor Total Contado: <strong>${formatCurrency(stats.totalCountedValue)}</strong> | 
                Diferença: <strong>${formatCurrency(stats.totalValueVariance)}</strong></p>
-            <p>Relatório gerado pelo sistema MRS-SIGMA em ${new Date().toLocaleString('pt-BR')}</p>
+            <p>Relatório gerado pelo sistema SIGMA em ${new Date().toLocaleString('pt-BR')}</p>
           </div>
         </body>
       </html>
