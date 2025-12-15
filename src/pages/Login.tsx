@@ -73,15 +73,15 @@ export function Login() {
             <div className="mx-auto w-42 h-42 flex items-center justify-center">
               <div className="w-38 h-38 rounded-full overflow-hidden border-4 border-blue-200 shadow-lg">
                 <img
-                  src="/mrslogo.png"
+                  src="/logo shelter.jpeg"
                   alt="Secontaf Logo"
                   className="w-full h-full object-cover"
                 />
               </div>
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-gray-900">MRS-SIGMA</h1>
-              <p className="text-gray-600 mt-2">,MRS Sistema Integrado de Gestão de Materiais e Ativos</p>
+              <h1 className="text-2xl font-bold text-gray-900">Shelter-Cronograma</h1>
+              <p className="text-gray-600 mt-2">,Sistema Integrado de Gestão de Materiais e Agendamentos</p>
             </div>
           </CardHeader>
 
