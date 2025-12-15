@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MRS-SIGMA</string>
+    <string name="title_activity_main">MRS-SIGMA</string>
+    <string name="package_name">com.secontaf.mrssigma</string>
+    <string name="custom_url_scheme">com.secontaf.mrssigma</string>
+</resources>
